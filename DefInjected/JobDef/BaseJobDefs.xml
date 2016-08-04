@@ -5,7 +5,7 @@
 	
 	<Wait.reportString>Staan.</Wait.reportString>
 	
-	<AttackStatic.reportString>valt TargetA aan.</AttackStatic.reportString>
+	<AttackStatic.reportString>Valt TargetA aan.</AttackStatic.reportString>
 	
     <AttackMelee.reportString>Valt TargetA met de hand aan.</AttackMelee.reportString>
 	
