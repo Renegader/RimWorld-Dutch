@@ -5,8 +5,8 @@
 	<ButcherCorpseFlesh.description>Een schepsel slachten, om het vlees eraf te kunnen halen.</ButcherCorpseFlesh.description>
 	<ButcherCorpseFlesh.jobString>Slachten.</ButcherCorpseFlesh.jobString>
 
-	<ButcherCorpseMechanoid.label>Mechanoide afbreken</ButcherCorpseMechanoid.label>
-	<ButcherCorpseMechanoid.description>Breek een mechanoide af in kleinere, bruikbare delen.</ButcherCorpseMechanoid.description>
-	<ButcherCorpseMechanoid.jobString>Mechanoide afbreken.</ButcherCorpseMechanoid.jobString>
+	<ButcherCorpseMechanoid.label>Mechanoïde afbreken</ButcherCorpseMechanoid.label>
+	<ButcherCorpseMechanoid.description>Breek een mechanoïde af in kleinere, bruikbare delen.</ButcherCorpseMechanoid.description>
+	<ButcherCorpseMechanoid.jobString>Mechanoïde afbreken.</ButcherCorpseMechanoid.jobString>
 	
 </LanguageData>
