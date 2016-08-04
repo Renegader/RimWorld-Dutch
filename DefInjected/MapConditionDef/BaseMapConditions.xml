@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<SolarFlare.label>Zonnenstorm</SolarFlare.label>
+	<SolarFlare.label>Zonnestorm</SolarFlare.label>
 	<SolarFlare.description>De straling van de zon raakt alle planeten. Door de straling worden alle elektrische apparaten uitgeschakeld</SolarFlare.description>
 	
 	<Eclipse.label>Zonsverduistering</Eclipse.label>
