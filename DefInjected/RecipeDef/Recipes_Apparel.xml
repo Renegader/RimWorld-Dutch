@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<MakeShirt.label>Maak t-shirt</MakeShirt.label>
-	<MakeShirt.description>Maak een t-shirt.</MakeShirt.description>
+	<MakeShirt.label>Maak een T-shirt</MakeShirt.label>
+	<MakeShirt.description>Maak een T-shirt.</MakeShirt.description>
 	<MakeShirt.jobString>T-shirt maken.</MakeShirt.jobString>
 	
-	<MakePants.label>Maak broek</MakePants.label>
+	<MakePants.label>Maak een broek</MakePants.label>
 	<MakePants.description>Maak een broek.</MakePants.description>
 	<MakePants.jobString>Broek maken.</MakePants.jobString>
 	
