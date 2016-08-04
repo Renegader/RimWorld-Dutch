@@ -19,7 +19,7 @@
   
   <DesignatorHaulThings>Objecten verslepen</DesignatorHaulThings>
   <DesignatorHaulThingsDesc>Markeert objecten zoals stenen om weggesleept te worden naar een opslagplaats. Niet nodig voor dingen als eten en lijken, die worden automatisch versleept.</DesignatorHaulThingsDesc>
-  <NothingToHaulHere>Niets om op te verslepen gevonden.</NothingToHaulHere>
+  <NothingToHaulHere>Niets om te verslepen gevonden.</NothingToHaulHere>
   <MustHaulHaulables>Je kunt alleen dingen markeren, die niet automatisch versleept worden.</MustHaulHaulables>
 
   <DesignatorHunt>Jagen</DesignatorHunt>
@@ -64,8 +64,8 @@
   <DesignatorZoneDelete>Zones verwijderen</DesignatorZoneDelete>
   <DesignatorZoneDeleteDesc>Verwijder zones, zoals opslag- en afvalzones.</DesignatorZoneDeleteDesc>
     
-  <DesignatorClaim>Neem bezit</DesignatorClaim>
-  <DesignatorClaimDesc>Neem  neutrale gebouwen in bezit. Overgenomen gebouwen kunnen worden gerepareerd en onderhouden door je kolonisten.</DesignatorClaimDesc>
+  <DesignatorClaim>Neem in bezit</DesignatorClaim>
+  <DesignatorClaimDesc>Neem neutrale gebouwen in bezit. Overgenomen gebouwen kunnen worden gerepareerd en onderhouden door je kolonisten.</DesignatorClaimDesc>
   
   <!-- placement of blueprints -->
   <UnchosenStuff>Ongekozen materiaal</UnchosenStuff>
@@ -74,7 +74,7 @@
   <CannotPlaceInUndiscovered>Kan niet in een onontdekte plaats plaatsen.</CannotPlaceInUndiscovered>
   <InteractionSpotBlocked>Bedieningsplaats geblokkeerd door {0}.</InteractionSpotBlocked>
   <InteractionSpotOutOfBounds>Bedieningsplaats is buiten de kaart.</InteractionSpotOutOfBounds>
-  <InteractionSpotWillBeBlocked>Bedieningsplaats zal worden geblokeerd door {0}.</InteractionSpotWillBeBlocked>
+  <InteractionSpotWillBeBlocked>Bedieningsplaats zal worden geblokkeerd door {0}.</InteractionSpotWillBeBlocked>
   <WouldBlockInteractionSpot>{0} zou {1}'s bedieningsplaats blokeren.</WouldBlockInteractionSpot>
   <TerrainIsAlready>De grond is hier al {0}.</TerrainIsAlready>
   <IdenticalThingExists>Hier staat al eenzelfde ding.</IdenticalThingExists>
