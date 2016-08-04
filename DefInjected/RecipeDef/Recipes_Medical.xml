@@ -23,37 +23,37 @@
 	<InstallNaturalBrain.jobString>Hersenen implanteren.</InstallNaturalBrain.jobString>
 	-->
 	
-	<InstallPegLeg.label>Houten been installeren</InstallPegLeg.label>
-	<InstallPegLeg.description>Installeer een houten been.</InstallPegLeg.description>
-	<InstallPegLeg.jobString>Houten been installeren.</InstallPegLeg.jobString>
+	<InstallPegLeg.label>Houten been bevestigen</InstallPegLeg.label>
+	<InstallPegLeg.description>Bevestig een houten been.</InstallPegLeg.description>
+	<InstallPegLeg.jobString>Houten been bevestigen.</InstallPegLeg.jobString>
 	
 	<InstallBionicEye.label>Bionisch oog implanteren</InstallBionicEye.label>
 	<InstallBionicEye.description>Implanteer een bionisch oog.</InstallBionicEye.description>
 	<InstallBionicEye.jobString>Bionisch oog implanteren.</InstallBionicEye.jobString>
 	
-	<InstallBionicArm.label>Bionische arm implanteren</InstallBionicArm.label>
-	<InstallBionicArm.description>Implanteer een bionische arm.</InstallBionicArm.description>
-	<InstallBionicArm.jobString>Bionische arm implanteren.</InstallBionicArm.jobString>
+	<InstallBionicArm.label>Bionische arm bevestigen</InstallBionicArm.label>
+	<InstallBionicArm.description>Bevestig een bionische arm.</InstallBionicArm.description>
+	<InstallBionicArm.jobString>Bionische arm bevestigen.</InstallBionicArm.jobString>
 	
-	<InstallBionicLeg.label>Bionisch been implanteren</InstallBionicLeg.label>
-	<InstallBionicLeg.description>Implanteer een bionisch been.</InstallBionicLeg.description>
-	<InstallBionicLeg.jobString>Bionisch been implanteren.</InstallBionicLeg.jobString>
+	<InstallBionicLeg.label>Bionisch been bevestigen</InstallBionicLeg.label>
+	<InstallBionicLeg.description>Bevestig een bionisch been.</InstallBionicLeg.description>
+	<InstallBionicLeg.jobString>Bionisch been bevestigen.</InstallBionicLeg.jobString>
 	
-	<InstallSimpleProstheticLeg.label>Eenvoudige beenprothese installeren</InstallSimpleProstheticLeg.label>
-	<InstallSimpleProstheticLeg.description>Installeer een simpele beenprothese.</InstallSimpleProstheticLeg.description>
-	<InstallSimpleProstheticLeg.jobString>Simpele beenprothese installeren.</InstallSimpleProstheticLeg.jobString>
+	<InstallSimpleProstheticLeg.label>Eenvoudige beenprothese bevestigen</InstallSimpleProstheticLeg.label>
+	<InstallSimpleProstheticLeg.description>Bevestig een simpele beenprothese.</InstallSimpleProstheticLeg.description>
+	<InstallSimpleProstheticLeg.jobString>Simpele beenprothese bevestigen.</InstallSimpleProstheticLeg.jobString>
 	
-	<InstallSimpleProstheticArm.label>Eenvoudige armprothese installeren</InstallSimpleProstheticArm.label>
-	<InstallSimpleProstheticArm.description>Installeer een simpele armprothese.</InstallSimpleProstheticArm.description>
-	<InstallSimpleProstheticArm.jobString>Eenvoudige armprothese installeren.</InstallSimpleProstheticArm.jobString>
+	<InstallSimpleProstheticArm.label>Eenvoudige armprothese bevestigen</InstallSimpleProstheticArm.label>
+	<InstallSimpleProstheticArm.description>Bevestig een simpele armprothese.</InstallSimpleProstheticArm.description>
+	<InstallSimpleProstheticArm.jobString>Eenvoudige armprothese bevestigen.</InstallSimpleProstheticArm.jobString>
 	
 	<InstallDenture.label>Nieuw gebit implanteren.</InstallDenture.label>
 	<InstallDenture.description>Implanteer een nieuw gebied.</InstallDenture.description>
 	<InstallDenture.jobString>Nieuw gebit implanteren.</InstallDenture.jobString>
 	
-	<InstallPowerClaw.label>Power-claw implanteren.</InstallPowerClaw.label>
-	<InstallPowerClaw.description>Implanteer een power-claw.</InstallPowerClaw.description>
-	<InstallPowerClaw.jobString>Power-claw implanteren.</InstallPowerClaw.jobString>
+	<InstallPowerClaw.label>Krachtklauw implanteren.</InstallPowerClaw.label>
+	<InstallPowerClaw.description>Implanteer een krachtklauw.</InstallPowerClaw.description>
+	<InstallPowerClaw.jobString>Krachtklauw implanteren.</InstallPowerClaw.jobString>
 	
 	<InstallScytherKnifeProtrusion.label>Mesuitsteeksel implanteren</InstallScytherKnifeProtrusion.label>
 	<InstallScytherKnifeProtrusion.description>Implanteer een mesuitsteeksel.</InstallScytherKnifeProtrusion.description>
@@ -74,12 +74,12 @@
 	<!-- killing -->
 	
 	<Euthanize.label>Laten inslapen</Euthanize.label>
-	<Euthanize.description>Een actieve sterfhulp toedienen.</Euthanize.description>
+	<Euthanize.description>Een persoon in laten slapen.</Euthanize.description>
 	<Euthanize.jobString>In laten slapen.</Euthanize.jobString>
 	
-	<ShutDownMechanoid.label>Afsluiten</ShutDownMechanoid.label>
-	<ShutDownMechanoid.description>Mechanoide afsluiten.</ShutDownMechanoid.description>
-	<ShutDownMechanoid.jobString>afsluiten.</ShutDownMechanoid.jobString>
+	<ShutDownMechanoid.label>Uitschakelen</ShutDownMechanoid.label>
+	<ShutDownMechanoid.description>Mechanoïde uitschakelen.</ShutDownMechanoid.description>
+	<ShutDownMechanoid.jobString>Uitschakelen.</ShutDownMechanoid.jobString>
 	
 	
 </LanguageData>
